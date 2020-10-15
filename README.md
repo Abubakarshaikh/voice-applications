@@ -1,5 +1,28 @@
 # voice-applications
 
+### What is natural language processing(NLP)?
+NLP is the process through which a computer can interact with natural language—natural language being what people speak, write, or read, such as English, French, or Hindi.
+
+A large part of NLP is natural language understanding (NLU), which is how the computer takes a free-flowing conversation and extracts meaning. Thankfully we don’t
+need to implement the technology that powers NLU in order to build our skills.That’s one of the boons of the rise of voice first. We can use these technologies and plug in our functionality, just as we don’t need to be experts in network stacks to build a website.
+
+* For Alexa, the NLU technology is chosen for us and goes directly through Amazon.
+* For Google Assistant, we can bring our own, but the one most developers new to the platform will use is Google’s Dialogflow.
+* Knowing how to implement NLU isn’t necessary, but it is helpful to understand the general principles of NLU and what you can control.
+
+### What is Speech Synthesis Markup Language (SSML)?
+The Alexa and Google Assistant platforms use Speech Synthesis Markup Language (SSML). It was created by the World Wide Web Consortium (W3C), it’s based on XML, and it’s used to differing degrees on Alexa, Google Assistant, and Cortana.
+
+* SSML gives developers the ability to change the prosody, or the manner of speaking.
+* With SSML, you can make Alexa whisper, shout, speak slowly, specify the pronunciation of words, and more.
+
+### What is XML? <br>
+XML is a software- and hardware-independent tool for storing and transporting data.
+* XML stands for eXtensible Markup Language
+* XML is a markup language much like HTML
+* XML was designed to store and transport data
+* XML was designed to be self-descriptive
+
 ### What is AWS Lex?
 Amazon Lex is a service for building conversational interfaces using voice and text. Powered by the same conversational engine as Alexa, Amazon Lex provides high quality speech recognition and language understanding capabilities, enabling addition of sophisticated, natural language ‘chatbots’ to new and existing applications. Amazon Lex reduces multi-platform development effort, allowing you to easily publish your speech or text chatbots to mobile devices and multiple chat services, like Facebook Messenger, Slack, Kik, or Twilio SMS.
 
